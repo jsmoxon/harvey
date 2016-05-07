@@ -31,7 +31,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
-    'urban_farmers',
+    'test_db_issue',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
